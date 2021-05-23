@@ -1,0 +1,26 @@
+UPDATE 2-China says Martian rover takes first drive on surface of Red Planet
+(Adds details)
+By Ryan Woo and Yilei Sun
+BEIJING, May 22 (Reuters) - A remote-controlled Chinese motorised rover drove down the ramp of its landing capsule on Saturday and onto the surface of Mars, making China the first nation to orbit, land and deploy a land vehicle on its inaugural mission to the Red Planet.
+Zhurong, named after a mythical Chinese god of fire, drove down to the surface of Mars at 10:40 a.m. Beijing time (0240 GMT), according to the rover's official Chinese social media account.
+China this month joined the United States as the only nations to deploy land vehicles on Mars. The former Soviet Union landed a craft in 1971, but it lost communication seconds later.
+The 240-kg (530-pound) Zhurong, which has six scientific instruments including a high-resolution topography camera, will study the planet's surface soil and atmosphere.
+Powered by solar energy, Zhurong will also look for signs of ancient life, including any subsurface water and ice, using a ground-penetrating radar during its 90-day exploration of the Martian surface.
+Zhurong will move and stop in slow intervals, with each interval estimated to be just 10 metres (33 feet) over three days, according to the official China Space News.
+"The slow progress of the rover was due to the limited understanding of the Martian environment, so a relatively conservative working mode was specially designed," Jia Yang, an engineer involved in the mission, told China Space News.
+Jia said he would not rule out a faster pace in the later stage of the rover's mission, depending on its operational state at the time.
+Jia said the rover was designed to be highly autonomous because the distance to Mars, at 320 million km (200 million miles), means a signal takes 40 minutes to travel both ways, posing a hurdle for real-time control of the rover.
+Martian temperatures are also a problem, he said: a nighttime drop to minus 130 degrees Celsius (minus 200 degrees Fahrenheit) freezes carbon dioxide, covering the uneven ground with a layer of dry ice - a terrain risk for the rover.
+Zhurong has an automated suspension system that can lift and lower its chassis by 60 centimetres (2 feet), the only rover with such a capability, according to China Space News.
+The rover is covered by nano-aerogel plates to protect its body from the cold.
+Dust storms could also affect the rover's ability to generate power through its solar panels, Jia said. To overcome this, the panel surface is made with a material that cannot be easily stained by dust and can easily shake dust off by vibration, he said.
+ANCIENT OCEAN
+China's uncrewed Tianwen-1 spacecraft blasted off from the southern Chinese island of Hainan in July last year. After more than six months in transit, Tianwen-1 reached the Red Planet in February where it had been in orbit since.
+On May 15, the landing capsule carrying the rover separated from Tianwen-1 and touched down on a vast plain known as Utopia Planitia, believed to be the site of an ancient ocean.
+The first images taken by the rover were released by the Chinese space agency on Wednesday.
+The coordinates of the landing site are 109.9 degrees east and 25.1 degrees north, China Space News said.
+Tianwen-1 was one of three probes that reached Mars in February.
+U.S. rover Perseverance touched down on Feb. 18 in a huge depression called Jezero Crater, more than 2,000 km (1,240 miles) from Utopia Planitia.
+Hope - the third spacecraft to arrive in February - is not designed to land. Launched by the United Arab Emirates, it is orbiting above Mars, gathering data on its weather and atmosphere.
+Perseverance and Zhurong are among three robotic rovers operating on Mars. The third is NASA's Curiosity, which landed in 2012.
+NASA's InSight, which arrived on the surface of the planet in 2018 to study its interior, is a stationary module. (Reporting by Ryan Woo and Yilei Sun; Editing by William Mallard)

@@ -1,0 +1,11 @@
+FBI says Conti ransomware gang has hit 16 U.S. health and emergency networks
+By Raphael Satter
+WASHINGTON (Reuters) - The Federal Bureau of Investigation said that the same group of online extortionists blamed for striking the Irish health system last week have also hit at least 16 U.S. medical and first response networks in the past year.
+In an alert made public https://www.aha.org/system/files/media/file/2021/05/fbi-tlp-white-report-conti-ransomware-attacks-impact-healthcare-and-first-responder-networks-5-20-21.pdf Thursday by the American Hospital Association, the FBI said the cybercriminals using the malicious software dubbed 'Conti' have targeted law enforcement, emergency medical services, dispatch centers, and municipalities.
+The alert did not name the victims or go into detail about the nature or severity of the breaches, saying only that they were among more than 400 organizations worldwide targeted by "Conti actors."
+The FBI did not immediately return a message seeking further detail on the notice, which was first reported https://www.bleepingcomputer.com/news/security/fbi-conti-ransomware-attacked-16-us-healthcare-first-responder-orgs by IT security news site Bleeping Computer.
+Ireland's Health Service Executive shut down its networks last Friday following a Conti-linked attack.
+The ransom attack has crippled diagnostic services, disrupted COVID-19 testing, and forced hospitals to cancel appointments. Ireland's minister responsible for e-government, Ossian Smyth, described it as possibly the most significant cybercrime to hit the Irish state.
+The Irish government said it had not paid and would not pay any ransom in exchange for the purported key.
+The Conti hackers have not returned messages from Reuters seeking comment.
+(Reporting by Raphael Satter, Editing by Rosalba O'Brien)

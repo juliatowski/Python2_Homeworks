@@ -1,0 +1,35 @@
+Apple CEO Tim Cook: The App Store has been an ‘economic miracle’
+Apple (AAPL) CEO Tim Cook took the witness stand on Friday to defend the iPhone maker’s control of its App Store, calling the service an “economic miracle” in a widely watched antitrust case brought by “Fortnite” maker Epic Games.
+Epic — which filed suit after its game was kicked off the App Store — contends the App Store constitutes an illegal monopoly because of the 30% commission Apple charges larger developers and the fact that the tech giant doesn’t allow other App Stores on its iPhones.
+In defending the App Store, Cook pointed to Apple’s public commitment to privacy and data security as key reasons for the control it exerts over the App Store, saying that opening up the iPhone to apps from other sources would interfere with the iPhone’s security.
+“Privacy from our point of view is one of the most important issues of the century,” Cook said, in his first-ever testimony in a court of law. The Apple CEO also called the App Store “an economic miracle” because of the millions of jobs created by the app economy.
+Billions of dollars at stake for Apple
+Epic’s battle with Apple began in August 2020 when the “Fortnite” maker added its own payment option for in-app purchases, in violation of Apple’s rules requiring developers to use the tech giant’s own purchasing system.
+Apple CEO Tim Cook gestures from the elevator as he arrives to speak during a weeks-long antitrust trial at federal court in Oakland, California, U.S. May 21, 2021. REUTERS/Brittany Hosea-Small
+Apple subsequently kicked Epic off the app store, spurring Epic to file a lawsuit claiming its 30% commission for developers that make at least $1 million a year violates antitrust laws.
+The bench trial, held before Judge Yvonne Gonzalez Rogers, could cost Apple billions in lost revenue if it’s forced to change its App Store model. Google — which has a similar policy and also kicked Epic out of its app store — faces a separate antitrust lawsuit from the “Fortnite” maker.
+Epic is seeking to have Apple reinstate the game “Fortnite” in the App Store, and force Apple to allow app developers to offer customers their own payment options or secondary app stores.
+Cook, however, said that enabling secondary app stores would be, “an experiment I wouldn’t want to run.”
+In his testimony, Cook said that Apple provides a superior experience in terms of malware prevention versus the likes of competitors like Google’s (GOOG, GOOGL) Android and Microsoft’s (MSFT) Windows, which allow for the installation of apps from third-party sources.
+“If you look at malware on iOS versus Android and Windows, it’s literally an off-the-chart level,” Cook said, adding that there is about 1% to 2% malware on iOS. Android and Windows, on the other hand, have 30% to 40% malware.
+Opening up the App Store, Cook said, would mean that Apple wouldn’t be able to guarantee the safety and security it is able to do now, something Apple has used as a marketing tool.
+Cook probed on China policies
+But during cross examination, Epic’s lawyer, Gary Bornstein, questioned Cook's commitment to privacy and security by making a reference to Apple's policies in China. In a lengthy investigation earlier this week, The New York Times called into question Apple’s practices in China — reporting that Apple removed apps from the App Store to appease Chinese officials and shared customer data with the Chinese government. 
+By complying with requests by the Chinese government to do things like store iCloud user data in the country where it is overseen by a separate company and taking down apps at the government’s request, the attorney claimed, Apple was putting its business ahead of the privacy of its Chinese customers.
+China has been Apple’s biggest victory and flaw. While sales in the country have generated billions in revenue, Apple’s operations there have come under increasing scrutiny. The New York Times investigation found that Apple removed thousands of apps, including news and encrypted messaging services, from its App Store in recent years, calling its commitment to user privacy into question.
+Apple, however, has responded that apps that were removed were operating without licenses, and that it was following the country’s laws, something it does wherever it operates.
+During his testimony, Cook said that it was better for Apple to operate in and engage with China and its citizens rather than removing itself from the country entirely. Moreover, he said, Apple does not have the option to defy Chinese law.
+'They are subsidizing everyone else'
+Cook also faced tough questions from the judge, who focused specifically on the money Apple makes from game developers.
+"The gaming industry seems to be generating a disproportionate amount of money to the IP you’re giving them and everyone else,” Rogers told Cook. “In essence, it’s almost like they are subsidizing everyone else.” Cook reiterated that Apple faced "fierce competition" for developers and users.
+“You don’t have competition in those in-app purchases, though,” Rogers said about the additional transactions on which Apple takes a commission after a gaming app is already downloaded and in use.
+“What is the problem with allowing users to have choice, especially in a game context…to have a cheaper option for content?” Rogers asked.
+Cook told the judge he thinks users do have a choice, noting they can choose from many different Android models in addition to the iPhone.
+Sign up for Yahoo Finance Tech newsletter
+Got a tip? Email Daniel Howley at dhowley@yahoofinance.com over via encrypted mail at danielphowley@protonmail.com, and follow him on Twitter at @DanielHowley.
+More from Dan:
+How to clean your laptop after a year of working from home
+Apple will face critical test when CEO Tim Cook testifies at Epic trial
+Apple's iPad Pro is the closest it's come to replacing a laptop
+Google is making big design and privacy changes to the world's most popular operating system
+Follow Yahoo Finance on Twitter, Facebook, Instagram, Flipboard, SmartNews, LinkedIn, YouTube, and reddit.

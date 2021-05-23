@@ -1,0 +1,16 @@
+Factbox-Five things to know about Epic's epic legal fight with Apple
+WASHINGTON (Reuters) - Apple Inc Chief Executive Tim Cook takes the witness stand on Friday to defend the lucrative App Store against "Fortnite" maker Epic Games' allegations that it is a monopoly that Apple illegally abuses.
+What is Epic and why is it suing?
+After years of complaints about Apple by app companies like music service Spotify Technology, Epic sued the most valuable U.S. public company for allegedly using its dominance to rake in bigger profits.
+Epic has waged a public relations and legal campaign, arguing that Apple acts anticompetitively by only allowing apps it approves on the world's 1 billion iPhones and by forcing developers to use Apple's in-app payment system, which charges commissions of up to 30% on sales. Epic considers this an outsized cut of profits for processing payments.
+What does Epic want from the trial?
+Epic's lawsuit seeks injunctions on Apple's actions that would allow third party app stores on the iPhone and wants app developers to be able to use their own in-app payment systems, circumventing Apple's commission.
+What has been Apple's defense? What will Cook say?
+Cook, who took over from founder Steve Jobs in 2011, is expected to spend more than two hours talking about Apple's corporate values, how the App Store came about, and Apple's competitive landscape. It is likely to be his most extensive public remarks to date on App Store, which anchors Apple's $53.8 billion services business.
+Cook is expected to press the case that App Store's rules are aimed at shielding customers from malware and protecting their privacy.
+Who will decide the case?
+The case is being heard by federal Judge Yvonne Gonzalez Rogers, who was nominated to the bench by then-President Barack Obama in 2011. She is at the U.S. District Court in the Northern District of California. The trial is in Oakland, California.
+What other probes does Apple face?
+In late April, European Union regulators accused Apple of distorting competition in the music streaming market, siding with Spotify in a case that could lead to a hefty fine and changes in the iPhone maker's lucrative business practices. The findings are preliminary and the first time Brussels has leveled anti-competitive charges against Apple.
+The U.S. Justice Department has also been investigating Apple's app store, at least since June 2019. In that probe, some app developers have accused Apple of introducing new products very similar to existing apps created by other developers and sold in the Apple Store, and then trying to banish the older apps from the store.
+(Reporting by Stephen Nellis; Writing by Diane Bartz; Editing by Richard Chang)

@@ -1,0 +1,10 @@
+UPDATE 1-Irish data regulator resumes Facebook data transfer probe
+(Adds details, background)
+DUBLIN, May 21 (Reuters) - Ireland's data regulator has given Facebook six weeks to respond to an investigation that may trigger a ban on the social media giant's transatlantic data transfers following a High Court ruling that the probe could resume.
+The case stems from European Union concerns that U.S. government surveillance may not respect the privacy rights of EU citizens when their personal data is sent to the United States for commercial use.
+Ireland's Data Protection Commissioner (DPC), Facebook's lead regulator in the EU, launched the inquiry last August and issued a provisional order that the main mechanism Facebook uses to transfer EU user data to the United States "cannot in practice be used".
+"Following Thursday's High Court hearing, we have written to Facebook and have given them 6 weeks to provide us with their submissions," a spokesman for the DPC said in a statement after the court lifted a freeze on the provisional order this week.
+Facebook had challenged both the inquiry and the provisional order, saying they threatened "devastating" and "irreversible" consequences for its business, which relies on processing user data to serve targeted online ads.
+The ruling does not trigger an immediate halt to data flows. But Austrian privacy activist Max Schrems, who pushed the Irish data regulator into a series of legal actions over the past eight years, said he believed the decision made it inevitable.
+A company spokesman said Facebook looked forward to defending its compliance with EU rules as the Irish regulator's provisional order "could be damaging not only to Facebook, but also to users and other businesses".
+If the Irish regulator enforces the provisional order, it would effectively end the privileged access that U.S. companies have to personal data from Europe and put them on the same footing as companies in other nations outside the bloc. (Reporting by Padraic Halpin; Editing by Leslie Adler and David Gregorio)
