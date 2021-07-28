@@ -1,9 +1,0 @@
-German cyber security chief fears hackers could target hospitals
-BERLIN (Reuters) - German hospitals may be at increased risk from hackers, the head of the country's cyber security agency said on Saturday, following two high-profile digital attacks this month on the Irish health service and a U.S. fuel pipeline.
-Ireland's health service operator shut down its IT systems last Friday to protect them from a "significant" ransomware attack, crippling diagnostic services, disrupting COVID-19 testing and forcing the cancellation of many appointments.
-German clinics have been targeted by a series of cyber attacks over the last five years, and Arne Schoenbohm, president of the BSI federal cyber security agency, told Zeit Online newspaper he saw "a greater danger at hospitals".
-Earlier in May, the 5,500-mile (8,850-km) U.S. Colonial Pipeline Co system closed after one of the most disruptive cyber attacks on record, preventing millions of barrels of gasoline, diesel and jet fuel from flowing to the East Coast from the Gulf Coast.
-Schoenbohm said many German businesses were at increased risk of being targeted by hackers due to remote working during the COVID-19 pandemic.
-"Many companies had to enable home offices within a short time," he said, adding that as a result, many of their IT systems were vulnerable to attack.
-"Companies often close known security gaps too slowly."
-(Writing by Paul Carrel; Editing by Helen Popper)

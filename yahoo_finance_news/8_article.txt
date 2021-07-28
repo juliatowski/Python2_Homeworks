@@ -1,9 +1,0 @@
-Worker at chipmaker TSMC gets COVID, operations unaffected
-TAIPEI, May 22 (Reuters) - A staff member at Taiwan Semiconductor Manufacturing Co Ltd (TSMC) has contracted COVID-19 and those who had direct contact are under quarantine, though operations are not affected, the company said on Saturday.
-Taiwan, a major producer of semiconductors, is central to global efforts to resolve a chip shortage that has shuttered some car plants around the world and is starting to affect consumer electronics.
-The island, after months of keeping the pandemic under control, is dealing with a surge in domestic infections.
-The TSMC staff member went to work last Sunday but found out they had been in contact with someone who tested positive and went into isolation, during which time they too tested positive, TSMC said in a statement.
-TSMC performed contact tracing and identified more than a dozen people who had close contact, who left company premises the same day and began 14 days of home quarantine, it said.
-None of those in quarantine have shown any symptoms or discomfort, and the infected staff member has only light symptoms, the company said.
-"This incident does not impact TSMC's operations, and the company will continue to actively cooperate with the government's policies and reinforce anti-epidemic measures."
-TSMC, the world's largest contract chipmaker, said on Monday that it would be starting to operate in separate teams to minimise the risk of COVID-19 infections. (Reporting by Ben Blanchard; Editing by William Mallard)
